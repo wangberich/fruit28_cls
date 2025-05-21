@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+data/
+datasets/
+*.h5
+*.ckpt
+venv/
+images/
+images_all/
+logs/
+*.keras
